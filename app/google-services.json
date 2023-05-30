@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "699296086277",
+    "project_id": "insureease-7408d",
+    "storage_bucket": "insureease-7408d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699296086277:android:d71576e0697fb2ed575f6c",
+        "android_client_info": {
+          "package_name": "com.example.insureease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699296086277-li6s61c7lpgghth2jq19gsqogr0o7ktj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGCYdRNrWP4tcrlN375JVbJWGS1m6vevk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699296086277-li6s61c7lpgghth2jq19gsqogr0o7ktj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

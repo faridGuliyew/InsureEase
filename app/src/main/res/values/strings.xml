@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InsureEase</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Categories">
+        <item>Fiziki şəxs</item>
+        <item>Müəssisə</item>
+        <item>Digər</item>
+    </string-array>
+</resources>
